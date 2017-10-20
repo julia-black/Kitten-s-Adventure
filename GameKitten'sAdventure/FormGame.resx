@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="labelInfo2.Text" xml:space="preserve">
+    <value>  
+   Смысл игры - написать алгоритм для кота-героя, с помощью которого он сможет достичь цели.                     
+   Цель - взять кристалл, однако мешать в достижении этой цели будут препятствия или враги.
+   Чтобы кот двигался, нужно писать построчно команды в поле "Алгоритм действий":
+                                                 </value>
+  </data>
+  <data name="labelInfoIf.Text" xml:space="preserve">
+    <value>if ( условие ) then команда1 else команда2 - означает: "если условие
+выполняется, то выполняем команду1, иначе - команду2". Например, конструкция 
+"if (wooden block) then Attack(); else Jump();" означает, что если перед котом 
+стоит деревянный блок, он будет его атаковать, иначе он будет перепрыгивать
+блок из другого материала.
+</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>45</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAGACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAAAAAAEgAAABIAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADb3c3X2cgAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAABibChQWxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJzLW4vJ2GokqAnj+4vJ3DxqwA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAABzfD5IVAOy62K8+WlJVARkbyoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHy7Smq4aTr1aJrT+9
+        8W7C93GJrT+SsVGmq4a/wqkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        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
+        AAf4AAAf+AAAH////////////////w==
+</value>
+  </data>
+</root>

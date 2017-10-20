@@ -1,0 +1,20 @@
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.exe.config
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.exe
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.pdb
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.csprojResolveAssemblyReference.cache
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.Form1.resources
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.Properties.Resources.resources
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.csproj.GenerateResource.Cache
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.exe
+c:\users\juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.pdb
+C:\Users\Juli\documents\visual studio 2013\Projects\3 курс\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.FormGame.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.exe.config
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.exe
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.pdb
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.exe
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Debug\GameKitten'sAdventure.pdb
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.Form1.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.FormGame.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten_sAdventure.Properties.Resources.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.csproj.GenerateResource.Cache
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Debug\GameKitten'sAdventure.csprojResolveAssemblyReference.cache

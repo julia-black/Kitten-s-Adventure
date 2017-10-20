@@ -1,0 +1,10 @@
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Release\GameKitten'sAdventure.exe.config
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Release\GameKitten'sAdventure.exe
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\bin\Release\GameKitten'sAdventure.pdb
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten_sAdventure.Form1.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten_sAdventure.FormGame.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten_sAdventure.Properties.Resources.resources
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten'sAdventure.csproj.GenerateResource.Cache
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten'sAdventure.exe
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten'sAdventure.pdb
+D:\Programming\Kitten's adventure\GameKitten'sAdventure\GameKitten'sAdventure\obj\Release\GameKitten'sAdventure.csprojResolveAssemblyReference.cache
